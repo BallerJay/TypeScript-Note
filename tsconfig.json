@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "target": "ES5",
+    "strict": false,
+    // 不生产编译后的文件
+    "noEmit": false,
+    // 有错误时不生成编译后的文件
+    "noEmitOnError": true,
+    // 输出目录
+    "outDir": "./dist"
+  }
+  // "include": [
+  //     "src/**/*"
+  // ],
+  // "exclude": [
+  //     "node_modules",
+  // ]
+}
